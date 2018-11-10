@@ -1,5 +1,0 @@
-/native
-*.jar
-.classpath
-.project
-.settings/org.eclipse.ltk.core.refactoring.prefs
