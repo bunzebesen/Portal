@@ -1,0 +1,5 @@
+/native 
+*.jar
+.project
+.classpath
+.settings/
